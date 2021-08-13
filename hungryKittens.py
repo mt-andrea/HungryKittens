@@ -64,7 +64,7 @@ def task5(label):
     feedingTime(kitties)
 
 task1("Task 1")
-#task2("Task 2")
-#task3("Task 3")
-#task4("Task 4")
+task2("Task 2")
+task3("Task 3")
+task4("Task 4")
 task5("Task 5")
