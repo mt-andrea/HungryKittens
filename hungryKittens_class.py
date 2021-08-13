@@ -1,4 +1,4 @@
-class Kittens:
+class Kitten:
     def __init__(self, name,voice,hunger,age):
         self.name=name
         self.voice=voice
